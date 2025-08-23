@@ -20,11 +20,6 @@ My timeline in the UK:
                 - Big Data Management <br />
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Game data was used in order to build a system that handles data pipelines for data analysis. Report and notebook are available here: https://github.com/ZanZver/BigDataManagement <br />
   </details>
-  <details>
-        <summary>Started working as junior data engineer at CDL.</summary> 
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Started working as a full time junior data engineer. We are using Python, AWS, SQL and other automated systems.
-            After joining the team, I have gotten AWS Certified Cloud Practitioner certification (https://www.credly.com/badges/7bc6c2bb-3947-4f46-92af-fd06acd58f31/public_url).
-  </details>
 - 2022<br />
     <details>
         <summary> Finished with the 3th year of university (with 1st class) 🎓</summary>
