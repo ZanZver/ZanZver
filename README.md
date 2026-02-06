@@ -106,7 +106,6 @@ Hi! I am Zan, a data engineer with an MSc in Big Data Analytics (with Distinctio
     <details>
         <summary> Started with MSc in Big Data Analytics </summary>
     </details>
-
 - 2021<br />
     <details>
         <summary> Finished the placement </summary>
@@ -116,7 +115,6 @@ Hi! I am Zan, a data engineer with an MSc in Big Data Analytics (with Distinctio
         <summary> Started the 3rd year of university </summary>
             Information can be seen in the 2022
     </details>
-
 - 2020<br />
     <details>
         <summary> Got 1st class in my 2nd year </summary>
@@ -154,7 +152,6 @@ Hi! I am Zan, a data engineer with an MSc in Big Data Analytics (with Distinctio
             - Wiki <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating articles/guides on how I have done something
     </details>
-
 - 2019<br />
     <details>
         <summary> Got 1st class in my 1st year </summary>
