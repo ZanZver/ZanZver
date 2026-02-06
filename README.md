@@ -30,8 +30,6 @@ Hi! I am Zan, a data engineer with an MSc in Big Data Analytics (with Distinctio
 
 ## Education
 
-University projects can be seen here: https://github.com/ZanZver
-
 - **September 2022 – February 2025** – Birmingham City University – MSc Big Data Analytics: **Distinction**
   <details>
         <summary>Completed modules</summary>
@@ -192,8 +190,6 @@ University projects can be seen here: https://github.com/ZanZver
 - Mentoring (career growth) – BCU (January 2022)
 
 <br />
-
-### Tools and languages I use:
 
 ### Tech stack:
 <img alt="Linux" width="26px" src="https://images.icon-icons.com/2415/PNG/512/linux_original_logo_icon_146433.png" /> &nbsp;&nbsp; <img alt="MacOS" width="26px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Apple_23519.png" /> &nbsp;&nbsp; <img alt="Windows" width="26px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/windows_icon-icons.com_62712.png" /> &nbsp;&nbsp; <img alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" /> &nbsp;&nbsp; <img alt="GitHub" width="26px" src="https://pics.freeicons.io/uploads/icons/png/13702699181561032680-512.png" /> &nbsp;&nbsp; <img alt="GitLab" width="26px" src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" /> &nbsp;&nbsp; <img alt="Docker" width="26px" src="https://images.icon-icons.com/2107/PNG/512/file_type_docker_icon_130643.png" /> &nbsp;&nbsp; <img alt="Dagster" width="26px" src="https://cdn.prod.website-files.com/681399f654933b29e12fb8bd/6814963071ec27bc6d2b8dee_dagster-primary-mark.svg.svg" /> &nbsp;&nbsp; <img alt="Python" width="26px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" /> &nbsp;&nbsp; <img alt="GoLang" width="26px" src="https://images.icon-icons.com/2699/PNG/512/golang_logo_icon_171073.png" /> &nbsp;&nbsp; <img alt="Proxmox" width="26px" src="https://images.icon-icons.com/2389/PNG/512/proxmox_logo_icon_144960.png" /> &nbsp;&nbsp; <img alt="Terraform" width="26px" src="https://images.icon-icons.com/2699/PNG/512/terraformio_logo_icon_168642.png" /> &nbsp;&nbsp; <img alt="SQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4962338431536834823-512.png" /> &nbsp;&nbsp; <img alt="MongoDB" width="26px" src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" /> &nbsp;&nbsp; <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> &nbsp;&nbsp; <img alt="Postman" width="26px" src="https://images.icon-icons.com/3053/PNG/512/postman_macos_bigsur_icon_189815.png" /> &nbsp;&nbsp; <img alt="PySpark" width="26px" src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" /> &nbsp;&nbsp; <img alt="dbt" width="26px" src="https://images.icon-icons.com/3914/PNG/512/dbt_logo_icon_249058.png" />
